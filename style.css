@@ -1,0 +1,87 @@
+* {
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+div.container {
+  width: 80vw;
+  height: 70vh;
+  margin: auto;
+  background-color: red;
+  margin-top: 100px;
+}
+
+div.side {
+  width: 25%;
+  height: 100%;
+  float: left;
+  background-color: lightgreen;
+  text-align: right;
+}
+
+div.spacer {
+  height: 20%;
+}
+
+div.profile-pic {
+
+}
+
+div.profile-pic img {
+  border-radius: 50%;
+  width: 50%;
+
+}
+
+div.info {
+
+}
+
+div.nav {
+
+}
+
+div.main-content {
+  width: 75%;
+  height: 100%;
+  float: left;
+  background-color: limegreen;
+}
+
+div.heading-bar {
+  background-color: orange;
+  height: 20%;
+
+}
+
+div.project-pane {
+  background-color: blue;
+}
+
+div.project-pic {
+  background-color: yellow;
+  float: left;
+  width: 50%;
+  text-align: center;
+
+}
+
+div.project-pic img {
+  width: 250px;
+}
+
+div.project-lang {
+  background-color: salmon;
+  float: left;
+  width: 50%;
+
+}
+
+div.project-description {
+  background-color: yellow;
+  width: 100%;
+  clear: left;
+  float: left;
+
+
+}
