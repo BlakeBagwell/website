@@ -1,0 +1,23 @@
+* {
+  border: 1px solid black;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+}
+ .main {
+   margin-top: 5%;
+   margin-bottom: 10%;
+   height: 100%;
+ }
+
+.head {
+  height: 150px;
+}
+
+.subhead {
+  height: 50px;
+}
+
+.content {
+  height: 300px;
+}
