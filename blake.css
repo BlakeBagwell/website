@@ -2,22 +2,26 @@
   border: 1px solid black;
   height: 100px;
   margin: auto;
-  text-align: center;
-}
- .main {
-   margin-top: 5%;
-   margin-bottom: 10%;
-   height: 100%;
- }
-
-.head {
-  height: 150px;
 }
 
-.subhead {
-  height: 50px;
+#nav {
+  height: 10vh;
 }
 
-.content {
-  height: 300px;
+#content {
+  height: 80vh;
+  margin-top: 50px;
+}
+
+button {
+  height: 30px;
+  width: 200px;
+  border: none;
+  background: transparent;
+  font-weight: 900;
+  outline: none;
+}
+
+#spacer {
+  height: 100vh;
 }
