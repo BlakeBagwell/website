@@ -1,0 +1,47 @@
+* {
+  color: #ABB2BF;
+  font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier;
+  font-size: 20px;
+  text-align: left;
+}
+
+html {
+  background-color: #282C34;
+}
+.key {
+  padding-left: 30px;
+}
+.number {
+  color: #D19A66;
+}
+.string {
+  color: #98C379;
+}
+.comment {
+  color: #59606D;
+}
+.details {
+  padding-left: 30px;
+}
+body {
+  background-color: #282C34;
+}
+
+.blake-object {
+  margin: 100px auto;
+  height: auto;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.flexcolumn {
+  flex-direction: column;
+}
+.flexrow {
+  flex-direction: row;
+}
+
+.hide {
+  display: none;
+}
