@@ -40,7 +40,7 @@ body {
 .blake-object {
   margin: 100px auto;
   height: auto;
-  width: 500px;
+  max-width: 550px;
   display: flex;
   flex-direction: row;
 }
