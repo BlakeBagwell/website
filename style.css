@@ -3,6 +3,7 @@
   font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier;
   font-size: 20px;
   text-align: left;
+  cursor: default;
 }
 
 html {
@@ -17,8 +18,17 @@ html {
 .string {
   color: #98C379;
 }
+.number {
+  color: #D19A66;
+}
 .comment {
   color: #59606D;
+}
+.standard {
+  color: #ABB2BF;
+}
+.function {
+  color: #61AFEF;
 }
 .details {
   padding-left: 30px;
